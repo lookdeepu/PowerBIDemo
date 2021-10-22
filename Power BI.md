@@ -12,20 +12,17 @@ By Pal
 
 ## Contents
 
-● Why BI ?
+● Why everyone wants a piece of data ?
 
-● Why Power BI ?
-
-● What is Power BI
+● Why Power BI is getting popular ?
 
 ● Building blocks of Power BI
-
-● 4 step data analysis process
 
 ● Users of Power BI
 
 ● What are the expectations
 
+● Where does Power BI fits in the Data Story
 
 
 
@@ -33,7 +30,7 @@ By Pal
 
 ● “Data is the new oil”
 
-● Bring math to your decision making
+● Bring computation to your decision making
 
 and science to your problem solving
 
@@ -43,15 +40,13 @@ approach
 
 
 
-
-
 ## Why Power BI ?
 
 ● Its Microsoft, hence user-friendly
 
 ● Drag and Drop elements (No coding)
 
-● In-built Machine Learning modules
+● In-built Machine Learning modules using R and Python Script
 
 ● Mobility
 
@@ -73,6 +68,8 @@ clouds/Pareto charts, etc.
 
 ## What is Power BI ?
 
+An Analytics tool that helps to weave a data story using the following techniques..
+
 ● Aggregate
 
 ● Analyze
@@ -80,9 +77,6 @@ clouds/Pareto charts, etc.
 ● Visualize
 
 ● Share
-
-
-
 
 
 ##  Users of Power BI
@@ -98,9 +92,6 @@ clouds/Pareto charts, etc.
 ● Business Analysts
 
 
-
-
-
 ## Building blocks of Power BI
 
 ● Datasets
@@ -110,9 +101,6 @@ clouds/Pareto charts, etc.
 ● Dashboards
 
 ● Visual Tiles
-
-
-
 
 
 ## Data Analysis (end to end)
@@ -126,17 +114,14 @@ clouds/Pareto charts, etc.
 ● Result summary or Output
 
 
-
-
-
-Meta Rules
+## Meta Rules
 
 ```
 ●Learning is Non-linear
 
 ●Reverse Engineering
 
-●‘Love’ errors or bugs, we never know what enlightens u in later stages
+●‘Love’ errors or bugs, we never know what enlightens us in later stages
 
 ●Learning is never ending [ Update your views every six months ]
 
@@ -146,28 +131,21 @@ Meta Rules
 ```
 
 
-
-
-
 Demo
 
 ● Use app.powerbi.com
 
 
-
-
-
+## Internal Notes
 Sample Dashboard
-
-
-
-
 
 Sample Work flow
 
+Showcase in Power BI
 
+Practical appications
 
+Some important Dashboards
 
-
-Thank you
+Visual Tour Guide
 
