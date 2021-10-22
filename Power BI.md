@@ -8,7 +8,8 @@ By Pal
 
 
 
-Contents
+
+## Contents
 
 ● Why BI ?
 
