@@ -4,6 +4,7 @@
 
 By Pal
 
+![](https://lh3.googleusercontent.com/HAbwLcZ0Ouw34rREwg4NSLaD_uKu1CMqrObe4b6mZnuHPB4isqm85Ej-9RPhNOpOM-ExOxVWzN_HdMckeaH81ulju1bCU8ZO9BQEPQBdR0I67skEoGJwoZafarXXKd5Yis4mI6fCNCQ=s1600)
 
 
 
@@ -114,7 +115,7 @@ clouds/Pareto charts, etc.
 
 
 
-Data Analysis (end to end)
+## Data Analysis (end to end)
 
 ● Data Collection
 
@@ -130,6 +131,7 @@ Data Analysis (end to end)
 
 Meta Rules
 
+```
 ●Learning is Non-linear
 
 ●Reverse Engineering
@@ -141,6 +143,7 @@ Meta Rules
 ●Resume is for 1970, URLs is for 2020.
 
 ●Feynman Technique
+```
 
 
 
