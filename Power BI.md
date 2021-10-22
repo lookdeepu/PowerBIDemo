@@ -28,8 +28,7 @@ By Pal
 
 
 
-
-Why BI ?
+## Why BI ?
 
 ● “Data is the new oil”
 
@@ -45,7 +44,7 @@ approach
 
 
 
-Why Power BI ?
+## Why Power BI ?
 
 ● Its Microsoft, hence user-friendly
 
@@ -71,7 +70,7 @@ clouds/Pareto charts, etc.
 
 
 
-What is Power BI ?
+## What is Power BI ?
 
 ● Aggregate
 
@@ -85,7 +84,7 @@ What is Power BI ?
 
 
 
-Users of Power BI
+##  Users of Power BI
 
 ● Data Analyst/Data Scientist
 
@@ -101,7 +100,7 @@ Users of Power BI
 
 
 
-Building blocks of Power BI
+## Building blocks of Power BI
 
 ● Datasets
 
